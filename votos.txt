@@ -71,7 +71,7 @@ Lindbergh Farias 75
 Luiz Couto 72
 Marcelo Crivella 59
 Carlos Jordy 76
-Duarte Jr. 64
+Duarte 64
 Fausto Pinato 55
 Rubens Otoni 61
 Mendonça Filho 73
@@ -383,6 +383,7 @@ Simone Marquetto 55
 Socorro Neri 56
 Sonize Barbosa 41
 Talíria Petrone 38
+Tenente Coronel Zucco 67
 Thiago de Joaldo 63
 Thiago Flores 63
 Tião Medeiros 59
@@ -404,7 +405,6 @@ Zé Trovão 61
 Zé Vitor 31
 Zeca Dirceu 45
 Zezinho Barbary 49
-Zucco 67
 Adriana Ventura 63
 Alexandre Lindenmeyer 56
 Alice Portugal 61
